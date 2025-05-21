@@ -1,5 +1,6 @@
 # PHOTOGRAPHY-PORTFOLIO-FRONT-END-PROJECT
 **Type:** Frontend Web Development
+
 **Tech Stack:** HTML, CSS, JavaScript
 
 **Project Overview:**
